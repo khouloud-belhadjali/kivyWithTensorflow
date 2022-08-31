@@ -4,7 +4,6 @@ import kivy.uix.image
 import numpy as np
 import treatments
 from model import TensorFlowModel
-import tensorflow as tf
 import threading
 from kivy.logger import Logger
 from kivy.uix.label import Label
